@@ -1,6 +1,6 @@
 # Simple-Make
 
-#How to use the 'make4061' program.
+# How to use the 'make4061' program.
 
 1. On the command line, type 'make' to utilize the Makefile and create the 'make4061' file.
 
